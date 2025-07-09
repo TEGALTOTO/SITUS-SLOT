@@ -10,21 +10,21 @@
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesia" />
     <meta name="author" content="TEGALTOTO" />
-    <meta name="og:url" content="https://niagaheadline.com/" />
+    <meta name="og:url" content="https://www.giantsofmandurah.com.au/" />
     <meta name="og:title" content="TEGALTOTO - Gabung Sekarang Dan Rasakan Sensasi Menang Besar Tiap Hari" />
     <meta name="og:type" content="product" />
     <meta name="og:description" content="TEGALTOTO adalah pusat destinasi bermain game online resmi serta toto online ternama yang sudah banyak beroperasi dan pelayanan yang sangat cepat, Selain itu TEGALTOTO juga menyediakan berbagai fitur menarik seperti bonus cashback, harian, rollingan dan event mingguan yang bisa membuat peluang menang semakin besar. Ayo nikmati permainan secara aman dan nyaman di situs terbaik" />
-    <meta name="og:image" content="https://imgku.vip/images/WSqSg.jpg" />
+    <meta name="og:image" content="https://imgku.vip/images/WS9dM.jpg" />
     <link rel="icon" type="image/x-icon" href="https://imgme.pro/images/icontegaltotof460b9f5ad80c2db.png" />
     <meta name="keywords"
         content="tegaltoto, tegal toto, tegaltoto login, situs tegaltoto, link tegaltoto, daftar tegaltoto, login tegaltoto, link alternatif tegaltoto, togel tegaltoto, slot tegaltoto.">
     <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
-    <link rel="canonical" href="https://niagaheadline.com/" />
-    <link rel="amphtml" href="https://tegalteh.s3.ap-southeast-2.amazonaws.com/niagaheadline.html" />
+    <link rel="canonical" href="https://www.giantsofmandurah.com.au/" />
+    <link rel="amphtml" href="https://tegalteh.s3.ap-southeast-2.amazonaws.com/giantsofmandurah.html" />
     <!--
  start preload 
 -->
-    <link rel="preload" href="https://imgku.vip/images/WSqSg.jpg" as="image" />
+    <link rel="preload" href="https://imgku.vip/images/WS9dM.jpg" as="image" />
     <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://acs-m.lazada.co.id" />
     <link rel="preconnect dns-prefetch" href="https://laz-g-cdn.alicdn.com" />
@@ -129,7 +129,7 @@
         };
         var dataLayer = window.dataLayer || [];
         var pdpTrackingData =
-            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://imgku.vip/images/WSqSg.jpg","v_voya":1,"TEGALTOTO_name":"Samsung","TEGALTOTO_id":"343","pdt_sku":3634343616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"TEGALTOTO - Gabung Sekarang Dan Rasakan Sensasi Menang Besar Tiap Hari","page":{"regCategoryId":"300343002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=36424834316_ID-6108584955&_p_prod=3642443416&_p_sku=61084343955&_p_slr="},"supplier_id":"","pdt_price":"Rp5.434.000"}';
+            '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://imgku.vip/images/WS9dM.jpg","v_voya":1,"TEGALTOTO_name":"Samsung","TEGALTOTO_id":"343","pdt_sku":3634343616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"TEGALTOTO - Gabung Sekarang Dan Rasakan Sensasi Menang Besar Tiap Hari","page":{"regCategoryId":"300343002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=36424834316_ID-6108584955&_p_prod=3642443416&_p_sku=61084343955&_p_slr="},"supplier_id":"","pdt_price":"Rp5.434.000"}';
         try {
             pdpTrackingData = JSON.parse(pdpTrackingData);
             pdpTrackingData.v_voya = false;
@@ -751,16 +751,16 @@
         "@context": "https://schema.org/",
         "@type": "Product",
         "name": "TEGALTOTO - Gabung Sekarang Dan Rasakan Sensasi Menang Besar Tiap Hari",
-        "image": "https://imgku.vip/images/WSqSg.jpg",
+        "image": "https://imgku.vip/images/WS9dM.jpg",
         "description": "TEGALTOTO adalah pusat destinasi bermain game online resmi serta toto online ternama yang sudah banyak beroperasi dan pelayanan yang sangat cepat, Selain itu TEGALTOTO juga menyediakan berbagai fitur menarik seperti bonus cashback, harian, rollingan dan event mingguan yang bisa membuat peluang menang semakin besar. Ayo nikmati permainan secara aman dan nyaman di situs terbaik",
-        "url": "https://niagaheadline.com/",
+        "url": "https://www.giantsofmandurah.com.au/",
         "TEGALTOTO": {
           "@type": "TEGALTOTO",
           "name": "TEGALTOTO"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://niagaheadline.com/",
+          "url": "https://www.giantsofmandurah.com.au/",
           "price": "15000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-11-31",
@@ -768,7 +768,7 @@
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://niagaheadline.com/",
+            "merchantReturnLink": "https://www.giantsofmandurah.com.au/",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 90,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -962,7 +962,7 @@
                                     </a>
                                 </div>
                                 <div class="top-links-item" id="topActionFeedback">
-                                    <a class="highlight" target="_blank" href="https://niagaheadline.com/"
+                                    <a class="highlight" target="_blank" href="https://www.giantsofmandurah.com.au/"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">DOWNLOAD TEGALTOTO</a>
                                 </div>
                                 <div class="top-links-item orange" id="topActionDownload"
@@ -1019,10 +1019,10 @@
                                                     </div>
                                                     <div class="error-message" id="topActionDownloadErrorMsg"></div>
                                                     <div class="app-stores">
-                                                        <a href="https://niagaheadline.com/" class="store-link">
+                                                        <a href="https://www.giantsofmandurah.com.au/" class="store-link">
                                                             <i class="app-apple"></i>
                                                         </a>
-                                                        <a href="https://niagaheadline.com/" class="store-link">
+                                                        <a href="https://www.giantsofmandurah.com.au/" class="store-link">
                                                             <i class="app-google"></i>
                                                         </a>
                                                     </div>
@@ -1032,7 +1032,7 @@
                                     </div>
                                 </div>
                                 <div class="top-links-item" id="topActionSell">
-                                    <a class="cyan" href="https://niagaheadline.com/"
+                                    <a class="cyan" href="https://www.giantsofmandurah.com.au/"
                                         data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">LOGIN TEGALTOTO</a>
                                 </div>
                                 <div class="top-links-item" id="topActionCustomCare"
@@ -1175,7 +1175,7 @@
                         <div class="lzd-logo-bar">
                             <div class="logo-bar-content header-content">
                                 <div class="lzd-logo-content">
-                                    <a href="https://niagaheadline.com/" data-spm="dhome"><img
+                                    <a href="https://www.giantsofmandurah.com.au/" data-spm="dhome"><img
                                             src="https://imgme.pro/images/logo-tegal8553a4fb69db91ed.png"
                                             alt="logo DOWNLOAD TEGALTOTO" /></a>
                                 </div>
@@ -1192,7 +1192,7 @@
                                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                                             <div class="lzd-site-menu-nav-container">
                                                 <div class="lzd-site-menu-nav-category">
-                                                    <a href="https://niagaheadline.com/">
+                                                    <a href="https://www.giantsofmandurah.com.au/">
                                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                                     </a>
                                                     <div class="lzd-site-menu-nav-menu">
@@ -2567,7 +2567,7 @@
                                     </div>
                                 </div>
                                 <div class="lzd-nav-cart">
-                                    <a href="https://niagaheadline.com/" data-spm="dcart"><span class="cart-icon"></span>
+                                    <a href="https://www.giantsofmandurah.com.au/" data-spm="dcart"><span class="cart-icon"></span>
                                         <span class="cart-num" id="topActionCartNumber"></span></a>
                                 </div>
                                 <div class="lzd-header-banner" id="topActionLiveUpBanner"></div>
@@ -2581,7 +2581,7 @@
                             data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
                             <div class="lzd-site-menu-nav-container">
                                 <div class="lzd-site-menu-nav-category">
-                                    <a href="https://niagaheadline.com/">
+                                    <a href="https://www.giantsofmandurah.com.au/">
                                         <span class="lzd-site-menu-nav-category-text">Kategori</span>
                                     </a>
                                     <div class="lzd-site-menu-nav-menu">
@@ -3670,7 +3670,7 @@
                                     </div>
                                 </div>
                                 <nav class="lzd-menu-labels" data-spm="menu">
-                                    <a class="lzd-menu-labels-item" href="https://niagaheadline.com/">
+                                    <a class="lzd-menu-labels-item" href="https://www.giantsofmandurah.com.au/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TEGALTOTO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgme.pro/images/icontegaltotof460b9f5ad80c2db.png" />
@@ -3680,7 +3680,7 @@
 -->
                                         <span class="lzd-menu-labels-item-text">TEGALTOTO</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://niagaheadline.com/">
+                                    <a class="lzd-menu-labels-item" href="https://www.giantsofmandurah.com.au/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TEGALTOTO" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgme.pro/images/icontegaltotof460b9f5ad80c2db.png" />
@@ -3690,7 +3690,7 @@
 -->
                                         <span class="lzd-menu-labels-item-text">Prediksi Togel</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://niagaheadline.com/">
+                                    <a class="lzd-menu-labels-item" href="https://www.giantsofmandurah.com.au/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="TEGALTOTO TRUSTED" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgme.pro/images/icontegaltotof460b9f5ad80c2db.png" />
@@ -3700,7 +3700,7 @@
 -->
                                         <span class="lzd-menu-labels-item-text">Bandar Togel</span>
                                     </a>
-                                    <a class="lzd-menu-labels-item" href="https://niagaheadline.com/">
+                                    <a class="lzd-menu-labels-item" href="https://www.giantsofmandurah.com.au/">
                                         <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                             <img alt="Togel Online" class="lzd-site-nav-menu-iconfont-img"
                                                 src="https://imgme.pro/images/icontegaltotof460b9f5ad80c2db.png" />
@@ -4019,7 +4019,7 @@
                                 <div class="gallery-preview-panel__content">
                                     <img class="pdp-mod-common-image gallery-preview-panel__image"
                                         alt="TEGALTOTO - Gabung Sekarang Dan Rasakan Sensasi Menang Besar Tiap Hari"
-                                        src="https://imgku.vip/images/WSqSg.jpg" />
+                                        src="https://imgku.vip/images/WS9dM.jpg" />
                                 </div>
                             </div>
                         </div>
@@ -4120,7 +4120,7 @@
 -->
                                     </span>
                                     <a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-TEGALTOTO__TEGALTOTO-link"
-                                        target="_self" href="https://niagaheadline.com/">Toto Online</a>
+                                        target="_self" href="https://www.giantsofmandurah.com.au/">Toto Online</a>
                                     <div class="pdp-product-TEGALTOTO__divider"></div>
                                 </div>
                             </div>
